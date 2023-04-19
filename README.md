@@ -1,7 +1,18 @@
 # handigit-ai
 Develop a neural network that can correctly classify images of handwritten digits. Training using the MNIST dataset.
 
-[nn]: https://github.com/jacar-javi/handigit-ai/raw/master/neural_network.svg "Handigit Neural Network"
+![Handigit Neural Network](neural_network.svg)
+
+Clone the repo:
+
+`git clone https://github.com/jacar-javi/handigit-ai.git`
+
+To launch application run:
+
+```bash
+pip install -r requirements.txt
+python handigit-ai.py
+```
 
 ## Step 1: Develop an Artificial Neural Network capable of classifying handwritten digits
 
