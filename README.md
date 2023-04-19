@@ -1,7 +1,7 @@
 # handigit-ai
 Develop a neural network that can correctly classify images of handwritten digits. Training using the MNIST dataset.
 
-##Step 1: Develop an Artificial Neural Network capable of classifying handwritten digits
+## Step 1: Develop an Artificial Neural Network capable of classifying handwritten digits
 
 We will use a Keras library based secuential Artificial Neural Network with 3 layers:
 
@@ -12,7 +12,7 @@ We will use a Keras library based secuential Artificial Neural Network with 3 la
 The model is compiled by specifying the optimizer (in this case 'adam'), the loss function (in this case 'categorical_crossentropy'), and the evaluation metric (in this case 'accuracy').
 
 
-##Step 2: Train NN with [MNIST](http://yann.lecun.com/exdb/mnist/) dataset and evaluate its accuracy.
+## Step 2: Train NN with [MNIST](http://yann.lecun.com/exdb/mnist/) dataset and evaluate its accuracy.
 
 1. Load the MNIST dataset and split it into two subsets: training and testing. 
 2. The pixel values of the images are normalized so that they are in the range of 0 to 1. 
@@ -34,4 +34,4 @@ After model training is complete, the model's performance is evaluated on the te
 
 
 
-##Step 3: Save trained model to use in future apps (TODO)
+## Step 3: Save trained model to use in future apps (TODO)
