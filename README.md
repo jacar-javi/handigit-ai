@@ -1,6 +1,8 @@
 # handigit-ai
 Develop a neural network that can correctly classify images of handwritten digits. Training using the MNIST dataset.
 
+[nn]: https://github.com/jacar-javi/handigit-ai/raw/master/neural_network.svg "Handigit Neural Network"
+
 ## Step 1: Develop an Artificial Neural Network capable of classifying handwritten digits
 
 We will use a Keras library based secuential Artificial Neural Network with 3 layers:
