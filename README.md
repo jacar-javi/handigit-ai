@@ -44,7 +44,6 @@ After model training is complete, the model's performance is evaluated on the te
 
 <img width="204" alt="model_training_validation" src="https://user-images.githubusercontent.com/17501624/233157293-6eb792ec-f4ce-48f7-96b5-e997a8262254.png">
 
+## Step 3: Save trained model to use in future apps
 
-
-
-## Step 3: Save trained model to use in future apps (TODO)
+Trained model saved as `trained-model.h5`

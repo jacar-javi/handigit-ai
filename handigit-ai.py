@@ -78,3 +78,7 @@ plt.ylabel('Pérdida')
 plt.legend()
 
 plt.show()
+
+
+# Save trained model
+model.save('trained_model.h5')
